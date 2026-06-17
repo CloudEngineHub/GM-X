@@ -31,7 +31,7 @@ The GM-100 dataset is publicly available for research purposes. You can access a
 ## 🤝 Community & Contact
 For general discussions, questions, or sharing your work related to GM-X, feel free to join our WeChat or Feishu groups by scanning the QR codes below.
 
-For submissions of new evaluation, datasets, or collaborations, please follow the instructions in Project Page and reach out to us via email at `rhos.ai@outlook.com`.
+For submissions of new evaluation, datasets, or collaborations, please follow the instructions in Project Page and reach out to us via email at `ziv@rhos.ai`.
 
 **Join our Community:**
 Feel free to submit issues if QR codes are not accessible.
